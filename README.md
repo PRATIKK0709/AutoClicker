@@ -24,7 +24,7 @@ Once you've compiled the code, you can run the ClickLeverage application. Use th
 ## Screenshots
 
 ![image](https://github.com/PRATIKK0709/ClickLeverage/assets/139443204/9c6ed7f0-90d9-474e-ace1-0a45483958a7)
-<img src="https://github.com/PRATIKK0709/ClickLeverage/assets/139443204/9c6ed7f0-90d9-474e-ace1-0a45483958a7" width="48">
+
 ## Contributions
 
 Contributions are welcome! If you have a feature request, bug report, or a pull request, please open an issue or submit a PR.
