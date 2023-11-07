@@ -20,3 +20,4 @@ cd ClickLeverage
 // Compile with your preferred C++ compiler
 ```
 Once you've compiled the code, you can run the ClickLeverage application. Use the interface to set the click duration, record the click position, and start the auto-clicking process.
+
