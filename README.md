@@ -23,7 +23,8 @@ Once you've compiled the code, you can run the ClickLeverage application. Use th
 
 ## Screenshots
 
-![image](https://github.com/PRATIKK0709/ClickLeverage/assets/139443204/9c6ed7f0-90d9-474e-ace1-0a45483958a7)
+![image](https://github.com/PRATIKK0709/ClickLeverage/assets/139443204/5ba7924b-f4eb-4f2b-af73-f60d759c0a0d)
+
 
 ## Contributions
 
