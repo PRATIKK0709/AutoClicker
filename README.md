@@ -15,7 +15,8 @@ Auto Clicker is a simple, lightweight, and easy-to-use Windows desktop applicati
 To use the Auto Clicker, clone this repository to your local machine, compile the code using a C++ compiler that supports the Win32 API, and run the executable.
 
 ```
-git clone https://github.com/your-username/auto-clicker.git
-cd auto-clicker
+git clone https://github.com/PRATIKK0709/ClickLeverage.git
+cd ClickLeverage
+// Compile with your preferred C++ compiler
 ```
-Once you've compiled the code, you can run the Auto Clicker application. Use the interface to set the click duration, record the click position, and start the auto-clicking process.
+Once you've compiled the code, you can run the ClickLeverage application. Use the interface to set the click duration, record the click position, and start the auto-clicking process.
